@@ -22,6 +22,7 @@ public class GameController {
     private Stage stage;
     private String coinSoundPath = "resources/views/res/coinSound.wav";
     private Obstacle obstacle;
+    //private
 
     public static KeyCode key = KeyCode.LEFT;
     public static KeyCode lastKey = KeyCode.LEFT;
