@@ -13,6 +13,7 @@ import javafx.util.Duration;
 import java.io.File;
 import java.util.Random;
 
+//Start GameController
 public class GameController {
     private Snake snek;
     private Coin coin;
